@@ -64,6 +64,8 @@ Observe + Improve
 
 ## 3. Simple Architecture
 
+![System architecture](docs/architecture.png)
+
 ```text
 Employee / HR User
         ↓
