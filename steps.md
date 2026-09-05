@@ -4,7 +4,7 @@
 
 3. **`app/core/config.py`** — Load all `.env` configurations into the application using a centralized settings class.
 
-4. **`data/sample_kb/`** — Add sample company IT documents such as VPN, password reset, MFA, and troubleshooting policies.
+4. **`data/sample_kb/`** — Add sample company HR documents such leave policies, remote-work guidelines, attendance rules, payroll information, employee benefits, onboarding and offboarding procedures, code-of-conduct guidelines, employee-record policies, and HR forms.
 
 5. **`app/services/ingestion.py`** — Build the document loading and chunking pipeline for PDF, TXT, Markdown, and DOCX files.
 
